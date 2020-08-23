@@ -1,0 +1,14 @@
+{
+  "name": "insta-font",
+  "version": "1.0.0",
+  "description": "Instagram Fonts",
+  "homepage": "https://amarkantku.github.io/nsta-font",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
