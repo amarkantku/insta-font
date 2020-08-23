@@ -4,7 +4,7 @@
   "description": "Instagram Fonts",
   "homepage": "https://amarkantku.github.io/nsta-font",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "",
   "license": "ISC",
